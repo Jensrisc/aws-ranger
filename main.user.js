@@ -5,9 +5,9 @@
 // @description  Modularer AWS Upload Buttons mit dynamischem Token pro Button
 // @match        https://iad.merlon.amazon.dev/*
 // @grant        GM_addStyle
-// @require      https://cdn.jsdelivr.net/gh/DEIN_GITHUB_USERNAME/aws-ranger-navigator-modular/buttons.js
-// @require      https://cdn.jsdelivr.net/gh/DEIN_GITHUB_USERNAME/aws-ranger-navigator-modular/data-button.js
-// @require      https://cdn.jsdelivr.net/gh/DEIN_GITHUB_USERNAME/aws-ranger-navigator-modular/feedback-button.js
+// @require      https://cdn.jsdelivr.net/gh/jensrisc/aws-ranger/buttons.js
+// @require      https://cdn.jsdelivr.net/gh/jensrisc/aws-ranger/data-button.js
+// @require      https://cdn.jsdelivr.net/gh/jensrisc/aws-ranger/feedback-button.js
 // ==/UserScript==
 
 (function () {
